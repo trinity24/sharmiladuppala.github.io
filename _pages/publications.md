@@ -17,5 +17,5 @@ author_profile: true
 
 
 ## Thesis:
-Optimizing Two Systems Employing Reducers<br/>
+**Optimizing Two Systems Employing Reducers**<br/>
 *MS thesis submitted to Computer Science Department, Stony Brook University*
