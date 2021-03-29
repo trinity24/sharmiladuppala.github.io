@@ -12,7 +12,7 @@ author_profile: true
 *31st ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2019*
 
 **Improved MapReduce Load Balancing through Distribution-Dependent Hash Function Optimization**<br/>
-<sup>*</sup> [Zafar Ahmed](https://www3.cs.stonybrook.edu/~radas/), Sharmila Duppala, [Rezaul Chowdhury](https://www3.cs.stonybrook.edu/~rezaul/) and Steven Skiena<br/>
+<sup>*</sup> [Zafar Ahmed](https://www3.cs.stonybrook.edu/~radas/), *Sharmila Duppala, [Rezaul Chowdhury](https://www3.cs.stonybrook.edu/~rezaul/) and Steven Skiena<br/>
 *26th IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2020*
 
 
