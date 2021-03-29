@@ -4,8 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-*<sup>abc</sup>Denotes authors are listed in **alphabetical order**. This is convention in theoretical computer science.
-Computer science traditionally uses competitive conferences (15-30% accepted) as the main publication venue.*
+*Computer science traditionally uses competitive conferences (15-30% accepted) as the main publication venue.*
 
 ## Conference
 **Data Races and the Discrete Resource-time Tradeoff Problem with Resource Reuse over Paths**<br/>
@@ -19,5 +18,4 @@ Computer science traditionally uses competitive conferences (15-30% accepted) as
 
 ## Thesis:
 Optimizing Two Systems Employing Reducers
-
-
+*MS thesis submitted to Computer Science Department, Stony Brook University*
