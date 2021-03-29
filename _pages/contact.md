@@ -5,9 +5,9 @@ permalink: /contact/
 author_profile: true
 ---
 
-Marina Knittel
+Sharmila Duppala
 
-Room 5104
+Room 2104
 
 Brendan Iribe Center
 
@@ -18,4 +18,4 @@ College Park, MD, 20742
 ---
 
 
-Or contact: mknittel AT cs DOT umd DOT edu
+Or contact: sduppala AT cs DOT umd DOT edu
